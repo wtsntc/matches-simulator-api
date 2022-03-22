@@ -4,7 +4,7 @@
     "local": " {
      "nome": "Maracanã",
      "imagem": "TODO"
-  },
+   },
     "mandante": {
      "nome": "Brasil",
     "força": 5,
@@ -14,5 +14,6 @@
      "nome": "Argentina",
     "força": 5,
     "imagem": "TODO"
+   }
   }
  ]
