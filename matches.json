@@ -1,7 +1,7 @@
 [
   {
     "descrição": "Eliminatórias Copa 2022",
-    "local": " {
+    "local": "{
      "nome": "Maracanã",
      "imagem": "TODO"
     },
@@ -15,6 +15,5 @@
     "força": 5,
     "imagem": "TODO"
    }
- 
   }
  ]
