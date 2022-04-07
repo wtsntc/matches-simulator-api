@@ -1,57 +1,36 @@
 [
   {
-    "descrição": "Eliminatórias Copa 2022",
+    "descricao": "Eliminatórias Sulamericanas Copa 2022",
     "local": {
-     "nome": "Maracanã",
-     "imagem": "TODO"
+      "nome": "Maracanã",
+      "imagem": "https://live.staticflickr.com/3173/2941621090_15e2b9ff4f_b.jpg"
     },
     "mandante": {
-     "nome": "Brasil",
-    "força": 5,
-    "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/br.png"
-   },
-   "visitante": {
-     "nome": "Argentina",
-    "força": 5,
-    "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/ar.png"
-   }
- }
-  
- 
+      "nome": "Brasil",
+      "estrelas": 5,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/br.png"
+    },
+    "visitante": {
+      "nome": "Argentina",
+      "estrelas": 5,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/ar.png"
+    }
+  },
   {
-    "descrição": "Eliminatórias Copa 2022",
+    "descricao": "Eliminatórias Sulamericanas Copa 2022",
     "local": {
-     "nome": "Estádio Centenário",
-     "imagem": "TODO"
+      "nome": "Maracanã",
+      "imagem": "https://live.staticflickr.com/3173/2941621090_15e2b9ff4f_b.jpg"
     },
     "mandante": {
-     "nome": "Uruguay",
-    "força": 4,
-    "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/uy.png"
-   },
-   "visitante": {
-     "nome": "Brasil",
-    "força": 5,
-    "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/br.png"
-   }
-  }
-  
-  
-  {
-    "descrição": "Eliminatórias Copa 2022",
-    "local": {
-     "nome": "Maracanã",
-     "imagem": "TODO"
+      "nome": "Brasil",
+      "estrelas": 5,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/br.png"
     },
-    "mandante": {
-     "nome": "Brasil",
-    "força": 5,
-    "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/br.png"
-   },
-   "visitante": {
-     "nome": "Colombia",
-    "força": 3,
-    "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/co.png"
-   }
- }
+    "visitante": {
+      "nome": "Chile",
+      "estrelas": 4,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/cl.png"
+    }
+  } 
 ]
